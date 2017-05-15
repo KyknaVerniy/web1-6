@@ -1,11 +1,17 @@
+.photo{
+  float: left;
+  margin-right: 30px;
+}
+  
 
 .gyouza{
-  count: "";
+  content: "";
   clear: both;
   display: block;
 }
 .explanation{
   float: left;
+  width: 468px;
 }
 
 dt{
