@@ -15,7 +15,7 @@ width: 960px;
 }
   
 
-.gyouza{
+.gyouza:after{
   content: "";
   clear: both;
   display: block;
