@@ -33,6 +33,7 @@ dt{
   background-color: blue;
 }
 
+
 #ingredient{
   border: 2px solid lightcoral;
   border-collapse: collapse;
@@ -50,4 +51,26 @@ td{
   padding: 5px;
   width: 80px;
   text-align: right;
+}
+
+caption{
+  padding: 5px;
+}
+
+#price{
+  background-color: lightyellow;
+}
+
+thead th, tfloat th{
+  background-color: while;
+}
+thead td{
+  color: while;
+  background-color: lightcoral;
+  text-align: center;
+}
+
+tfloat td{
+  font-weight: bold;
+  background-color: while;
 }
