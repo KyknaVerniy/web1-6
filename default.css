@@ -20,7 +20,7 @@ dt{
   font-weight: bold;
 }
 
-.btn{
+.btn {
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   margin: 5px;
@@ -31,22 +31,22 @@ dt{
   font-size: 16px;
 }
 
-.btn:hover{
-  opacity: 1.7;
+.btn:hover {
+  opacity: 0.7;
 }
-.btn:active{
-  color: black;
-}
-
-.btn-submit{
-  background-color: red;
-}
-.btn-reset{
-  background-color: blue;
+.btn:active {
+  color: while;
 }
 
+.btn-submit {
+  background-color: silver;
+}
+.btn-reset {
+  background-color: lightcoral;
+}
 
-#ingredient{
+
+#ingredient {
   border: 2px solid lightcoral;
   border-collapse: collapse;
   
