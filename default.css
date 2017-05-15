@@ -18,6 +18,21 @@ dt{
   -webkit-appearance: none;
   margin: 5px;
 }
+
+.btn:hover{
+  opacity: 0.7;
+}
+.btn:active{
+  color: black;
+}
+
+.btn-submit{
+  background-color: red;
+}
+.btn-reset{
+  background-color: blue;
+}
+
 #ingredient{
   border: 2px solid lightcoral;
   border-collapse: collapse;
